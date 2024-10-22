@@ -1,1 +1,2 @@
 TortoiseGitと連動
+テキスト追加
